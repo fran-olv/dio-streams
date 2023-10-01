@@ -53,6 +53,8 @@ public class CarrinhoDeCompras {
   }
 }
 ```
+
+## Desafio
 - Combinada com as Expressões Lambda e Method reference, eles proporcionam uma forma diferente de lidar com conjuntos de elementos, oferecendo ao desenvolvedor uma maneira simples e concisa de escrever código que resulta em facilidade de manutenção e paralelização sem efeitos indesejados em tempo de execução.
 - As operações na Stream API podem ser classificadas em duas categorias principais:
 1. Operações Intermediárias: são aquelas que retornam uma nova Stream e permitem encadear várias operações, formando um pipeline de processamento de dados. São elas:
